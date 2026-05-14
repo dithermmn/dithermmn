@@ -1,6 +1,3 @@
-# PruebaRedme
-
-
 <h1 align="center">Hi 👋, I'm Dither</h1>
 <h3 align="center">Computer Systems Engineering student, interested in software development and new technologies.</h3>
 
